@@ -1,6 +1,6 @@
 # Maxim-CSSOM
 
-***maxim-cssom forked from cssom，it extends the feature can support one property with multiple values。
+* maxim-cssom forked from cssom，it extends the feature can support one property with multiple values。
 
 CSSOM.js is a CSS parser written in pure JavaScript. It also a partial implementation of [CSS Object Model](http://dev.w3.org/csswg/cssom/). 
 
